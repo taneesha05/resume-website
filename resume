@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tanisha Singh - Resume</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(to right, #4e73df, #8e44ad);
+        }
+
+        .container {
+            width: 80%;
+            margin: 40px auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            font-size: 38px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .contact {
+            text-align: center;
+            font-size: 14px;
+            color: #555;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #8e44ad;
+            border-left: 6px solid #4e73df;
+            padding-left: 10px;
+            margin-top: 25px;
+            transition: 0.3s;
+        }
+
+        h2:hover {
+            color: #e74c3c;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #333;
+        }
+
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+
+        ul li {
+            padding: 5px 0;
+            transition: 0.3s;
+        }
+
+        ul li:hover {
+            color: #e74c3c;
+            transform: translateX(5px);
+        }
+
+        .box {
+            background-color: #f4f0ff;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 25px;
+            font-size: 12px;
+            color: gray;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Tanisha Singh</h1>
+
+    <div class="contact">
+        Email: tanisha.singh@email.com | Phone: +91-XXXXXXXXXX | Location: India
+    </div>
+
+    <h2>Career Objective</h2>
+    <div class="box">
+        <p>
+            Motivated and confident college student with strong communication 
+            and leadership skills. Seeking opportunities in management and 
+            business-oriented roles where I can contribute effectively and grow professionally.
+        </p>
+    </div>
+
+    <h2>Education</h2>
+    <ul>
+        <li>Bachelor’s Degree (Pursuing) – [Your College Name]</li>
+        <li>Higher Secondary Education – [Your School Name]</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Communication & Public Speaking</li>
+        <li>Leadership & Teamwork</li>
+        <li>Event Coordination</li>
+        <li>Basic HTML & CSS</li>
+        <li>Time Management</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Personal Resume Website using HTML & CSS3</li>
+        <li>College Event Management Participation</li>
+    </ul>
+
+    <h2>Interests</h2>
+    <ul>
+        <li>Business Strategy & MBA Studies</li>
+        <li>Networking & Communication</li>
+        <li>Creative Design & Presentation</li>
+    </ul>
+
+    <div class="footer">
+        © 2026 Tanisha Singh | Resume Webpage
+    </div>
+
+</div>
+
+</body>
+</html>
